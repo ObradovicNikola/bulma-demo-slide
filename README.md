@@ -1,2 +1,2 @@
 # bulma-demo-slide
-Demo site using bulma css framework
+Demo site built with bulma css framework
